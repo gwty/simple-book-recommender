@@ -86,12 +86,16 @@ We can also use machine learning and/or clustering algorithms to further enhance
 ![image](https://github.com/user-attachments/assets/f301d4e0-cf3a-45dc-be39-dbc7f5bc2e76)
 
 Response times are:
-1.6s to get books
-<=10ms to CRUD on a book
+```
+1.6s to get books,
+<=10ms to CRUD on a book,
 80ms to search book title
+```
 
+```
 0.6s to get authors
 <10ms to CRUD on authors
+```
 
 <100ms to get book suggestions
 
