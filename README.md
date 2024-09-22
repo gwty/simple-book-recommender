@@ -3,6 +3,9 @@
 
 Simple book recommender django app
 
+Loom: https://www.loom.com/share/3790f26a80ce448189836bb6ff0809d1
+
+
 Dataset: https://www.kaggle.com/datasets/opalskies/large-books-metadata-dataset-50-mill-entries?resource=download
 
 
