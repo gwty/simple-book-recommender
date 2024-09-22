@@ -79,7 +79,7 @@ There are many ways to suggest books, this is a very simple example that is very
 
 We can use other data such as Author data, List data to enhance our suggestions.
 We can also use machine learning and/or clustering algorithms to further enhance our suggestion algorithm.
-## API Reference
+
 
 ## Screenshots
 
@@ -99,7 +99,9 @@ Response times are:
 
 <100ms to get book suggestions
 
-## Books
+
+## API Reference
+### Books
 #### Get all books
 
 ```http
@@ -157,7 +159,7 @@ Response times are:
 | `query`      | `string` | **Required**. Search query |
 
 
-## Authors
+### Authors
 #### Get all authors
 
 ```http
